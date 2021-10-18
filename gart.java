@@ -1,4 +1,4 @@
-class hash {
+class gart {
 public static void main(String args[])
 {
 System.out.println("hello java");
